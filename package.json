@@ -1,0 +1,17 @@
+{
+  "name": "html-links",
+  "version": "0.0.0",
+  "description": "Extract absolute links from a stream of html",
+  "main": "html-links.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "David Björklund <david.bjorklund@gmail.com> (http://davidbjorklund.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "trumpet": "^1.6.4"
+  },
+  "devDependencies": {
+    "tape": "^2.13.4"
+  }
+}
