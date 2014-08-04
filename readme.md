@@ -1,15 +1,15 @@
-# html-links
+# extract-links[![build status](https://secure.travis-ci.org/kesla/extract-links.svg)](http://travis-ci.org/kesla/extract-links)
 
 Extract links from a stream of html
 
-[![NPM](https://nodei.co/npm/html-links.png?downloads&stars)](https://nodei.co/npm/html-links/)
+[![NPM](https://nodei.co/npm/extract-links.png?downloads&stars)](https://nodei.co/npm/extract-links/)
 
-[![NPM](https://nodei.co/npm-dl/html-links.png)](https://nodei.co/npm/html-links/)
+[![NPM](https://nodei.co/npm-dl/extract-links.png)](https://nodei.co/npm/extract-links/)
 
 ## Installation
 
 ```
-npm install html-links
+npm install extract-links
 ```
 
 ## Example
