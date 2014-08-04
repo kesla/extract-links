@@ -1,8 +1,8 @@
 {
   "name": "html-links",
   "version": "0.0.0",
-  "description": "Extract absolute links from a stream of html",
-  "main": "html-links.js",
+  "description": "Extract links from a stream of html",
+  "main": "extract-links.js",
   "scripts": {
     "test": "tape test.js"
   },

@@ -2,7 +2,7 @@ var fs = require('fs')
 
   , test = require('tape')
 
-  , links = require('./html-links')
+  , links = require('./extract-links')
 
 test('default', function (t) {
   fs.createReadStream(__dirname + '/test.html')
