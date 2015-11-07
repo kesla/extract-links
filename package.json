@@ -9,9 +9,17 @@
   "author": "David Björklund <david.bjorklund@gmail.com> (http://davidbjorklund.com/)",
   "license": "MIT",
   "dependencies": {
-    "trumpet": "^1.6.4"
+    "trumpet": "^1.7.2"
   },
   "devDependencies": {
-    "tape": "^2.13.4"
-  }
+    "tape": "^4.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesla/extract-links.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kesla/extract-links/issues"
+  },
+  "homepage": "https://github.com/kesla/extract-links#readme"
 }
