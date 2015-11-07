@@ -1,6 +1,6 @@
 {
   "name": "extract-links",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "Extract links from a stream of html",
   "main": "extract-links.js",
   "scripts": {
